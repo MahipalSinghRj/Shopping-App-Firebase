@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "290727550058",
+    "project_id": "royal-shopping-app",
+    "storage_bucket": "royal-shopping-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290727550058:android:a88cec9d818815d6c03e13",
+        "android_client_info": {
+          "package_name": "com.example.royal_shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290727550058-co5vgecttu7rngntu2q0lfvo0cbloo9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.royal_shopping_app",
+            "certificate_hash": "0f9f2bf9a5f694df08b80b8e552d1fad2c4a5924"
+          }
+        },
+        {
+          "client_id": "290727550058-rri6oda9tiqj7mpbcvm0jnf6gfb4prkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-72t-1LO2T2tToHOBL_LrLcFYl34dqCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290727550058-rri6oda9tiqj7mpbcvm0jnf6gfb4prkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
